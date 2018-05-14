@@ -1,4 +1,20 @@
 {
+    "liveSassCompile.settings.formats":[
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "/css"
+        }
+    ],
+    "liveSassCompile.settings.excludeList": [
+        "**/node_modules/**",
+        ".vscode/**"
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.autoprefix": null,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
     "window.zoomLevel": -2,
     "editor.tabSize": 2,
     "workbench.startupEditor": "none",
@@ -35,4 +51,10 @@
     "git.defaultCloneDirectory": "C:\\Users\\elton\\Repositories",
     "git.promptToSaveFilesBeforeCommit": true,
     "emmet.triggerExpansionOnTab": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "liveServer.settings.port": 80,
+    "liveServer.settings.wait": 0,
+    "jshint.lintHTML": true,
 }
