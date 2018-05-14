@@ -38,6 +38,7 @@
     "css.lint.ieHack": "warning",
     "css.lint.unknownVendorSpecificProperties": "warning",
     "css.lint.zeroUnits": "warning",
+    "css.lint.important": "warning",
     "scss.lint.compatibleVendorPrefixes": "warning",
     "scss.lint.duplicateProperties": "warning",
     "scss.lint.float": "warning",
@@ -45,6 +46,7 @@
     "scss.lint.ieHack": "warning",
     "scss.lint.unknownVendorSpecificProperties": "warning",
     "scss.lint.zeroUnits": "warning",
+    "scss.lint.important": "warning",
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "git.autofetch": true,
@@ -59,5 +61,7 @@
     "jshint.lintHTML": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "workbench.colorTheme": "Visual Studio Light",
-    "jshint.options": { "esversion": 6 },
+    "jshint.options": {
+        "esversion": 6
+    },
 }
