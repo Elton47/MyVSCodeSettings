@@ -57,4 +57,7 @@
     "liveServer.settings.port": 80,
     "liveServer.settings.wait": 0,
     "jshint.lintHTML": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Visual Studio Light",
+    "jshint.options": { "esversion": 6 },
 }
