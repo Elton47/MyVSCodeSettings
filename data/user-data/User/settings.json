@@ -89,5 +89,11 @@
     "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
     "typescript.implementationsCodeLens.enabled": true,
     "typescript.preferences.importModuleSpecifier": "relative",
-    "typescript.referencesCodeLens.enabled": true
+    "typescript.referencesCodeLens.enabled": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.settings.mode": "advanced",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Pitch Black"
 }
